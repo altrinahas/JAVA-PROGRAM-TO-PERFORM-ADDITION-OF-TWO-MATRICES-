@@ -63,6 +63,7 @@ o After finishing, click File > Exit to close Eclipse IDE.
 
 ## PROGRAM: 
 
+~~~
 package matrixadd;
 public class addmatrices {
     public static void main(String[] args) {
@@ -97,8 +98,8 @@ public class addmatrices {
         }
     }
 }
- 
 
+~~~
 ## OUTPUT: 
 
 <img width="1919" height="1015" alt="Screenshot 2025-08-12 153542" src="https://github.com/user-attachments/assets/41940bc8-1e37-4c37-8c62-2227fa66fcd5" />
